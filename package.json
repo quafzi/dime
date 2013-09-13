@@ -15,5 +15,25 @@
     "tracking"
   ],
   "author": "Thomas Birke <tbirke@netextreme.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gleeman-express-http": "~0.2.0",
+    "commander": "~2.0.0",
+    "async": "~0.2.9",
+    "gleeman-config": "~0.1.0",
+    "gleeman-commander": "~0.1.0",
+    "glob": "~3.2.6",
+    "lodash": "~2.0.0",
+    "gleeman": "~0.3.2",
+    "moment": "~2.2.1",
+    "stylus": "~0.37.0",
+    "gleeman-express": "~0.3.1",
+    "gleeman-express-js": "~0.2.0",
+    "nib": "~1.0.1",
+    "gleeman-express-css": "~0.2.0",
+    "jade": "~0.35.0",
+    "sequelize": "~2.0.0-beta.0",
+    "mysql": "~2.0.0-alpha9",
+    "express": "~3.4.0"
+  }
 }
