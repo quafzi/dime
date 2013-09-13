@@ -1,0 +1,19 @@
+{
+  "name": "dime",
+  "version": "0.1.0",
+  "description": "Dime - Next Generation Time Tracking",
+  "main": "manage.js server",
+  "scripts": {
+    "test": "manage.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quafzi/dime.git"
+  },
+  "keywords": [
+    "time",
+    "tracking"
+  ],
+  "author": "Thomas Birke <tbirke@netextreme.de>",
+  "license": "MIT"
+}
